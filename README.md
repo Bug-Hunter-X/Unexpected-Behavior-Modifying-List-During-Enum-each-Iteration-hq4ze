@@ -1,0 +1,1 @@
+This repository demonstrates a common Elixir coding error involving modifying a list while iterating with Enum.each.  The provided code attempts to remove an element during iteration, leading to unexpected results.  The solution demonstrates how to use Enum.filter to correctly remove elements.
